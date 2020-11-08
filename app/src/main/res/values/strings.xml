@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">SPEED RECORDS</string>
+    <string name="record_add"> ADD RECORD</string>
+    <string name="enter_distance_meter">Enter distance (meter)</string>
+    <string name="enter_time_second">Enter time (second)</string>
+    <string name="clear">CLEAR</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="average_speed_km_h">Average Speed (km/h)</string>
+    <string name="requrired">Distance and time are required</string>
+    <string name="time_zero">Time must be greater than zero</string>
+    <string name="over">Speed is over limit!</string>
 </resources>
